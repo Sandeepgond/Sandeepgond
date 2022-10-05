@@ -33,6 +33,6 @@
 
 
 
-<p>&nbsp;<img style={background-color:"red"} align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepgond&show_icons=true&locale=en" alt="sandeepgond" /></p>
+<p>&nbsp;<img background-color="red" align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepgond&show_icons=true&locale=en" alt="sandeepgond" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepgond&" alt="sandeepgond" /></p>
