@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sandeepgond13sandy@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/sandeep/Downloads/Sandeep%20Resume%202.pdf](file:///C:/Users/sandeep/Downloads/Sandeep%20Resume%202.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_QPTiV93W91wnQNQc_28-2CD8AqCPNF5/view?usp=sharing]
 
 - ⚡ Fun fact **I Think I am funny**
 
