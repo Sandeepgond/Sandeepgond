@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="Sandeepgond"/></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepgond" alt="" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepgond" alt="" /></a> </p> -->
 
 ---
 
