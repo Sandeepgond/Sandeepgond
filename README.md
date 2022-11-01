@@ -5,6 +5,7 @@
 
 
 - 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently pursuing Full Stack Web Development
 
 - 💬 Ask me about tech. 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hdZfB2CGF3vnVV8BBjS4ecantf3ls6gS/view?usp=sharing)
