@@ -3,9 +3,7 @@
 ##  <p  align="center"> I'm Sandeep Gond 👋</p>
 ## <p  align="center">  🌱 I’m An Enthusiast, Code Lover and Life-Long Learner. </p>
 
-Here are some ideas to get you started:
 
-- 🌱 I’m An Enthusiast, Code Lover and Life-Long Learner.
 - 👯 I’m looking to collaborate on ...
 
 - 💬 Ask me about tech. 
