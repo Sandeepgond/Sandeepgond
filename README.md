@@ -8,7 +8,7 @@
 - 🔭 I’m currently pursuing Full Stack Web Development
 
 - 💬 Ask me about tech. 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hdZfB2CGF3vnVV8BBjS4ecantf3ls6gS/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sinTtZuAttCUGR4eY_pwXMShcPifOl0l/view?usp=sharing)
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://sandeepgond.github.io/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sandeep-gond-160b9422b/)
 - ⚡ Fun fact: 
