@@ -40,7 +40,7 @@
 
 
 <p align="center">
-<a  href="https://github.com/Sandeepgond/github-readme-activity-graph"><img width="80%" alt="Sandeepgond's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sandeepgond&bg_color=000000&color=5BCDEC&line=5BCDEC&area_color=39FF14&point=FFFFFF&hide_border=true&area=true" /></a>
+<a  href="https://github.com/Sandeepgond/github-readme-activity-graph"><img alt="Sandeepgond's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sandeepgond&bg_color=000000&color=5BCDEC&line=5BCDEC&area_color=39FF14&point=FFFFFF&hide_border=true&area=true" /></a>
 </p>
 
 
