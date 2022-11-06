@@ -39,9 +39,9 @@
 
 
 
-
-<a href="https://github.com/Sandeepgond/github-readme-activity-graph"><img alt="Sandeepgond's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Sandeepgond&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
+<p align="center">
+<a  href="https://github.com/Sandeepgond/github-readme-activity-graph"><img width="80%" alt="Sandeepgond's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sandeepgond&bg_color=000000&color=5BCDEC&line=5BCDEC&area_color=39FF14&point=FFFFFF&hide_border=true&area=true" /></a>
+</p>
 
 
 
@@ -70,7 +70,6 @@
 
 <p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="Sandeepgond"/></p>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepgond" alt="" /></a> </p> -->
 
 ---
 
