@@ -6,9 +6,9 @@
     <a href="https://github.com/Sandeepgond">
         <img src="https://komarev.com/ghpvc/?username=Sandeepgond&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeepgond" />
     </a>
-    <a href="https://github.com/Sandeepgond?tab=followers">
+    <!-------------------------<a href="https://github.com/Sandeepgond?tab=followers">
         <img src="https://img.shields.io/github/followers/Sandeepgond?label=Followers&style=social" alt="followers-count">
-    </a>
+    </a>---------------------->
 </p>
 
 - 👯 I’m looking to collaborate on ...
