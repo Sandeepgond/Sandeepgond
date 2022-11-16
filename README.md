@@ -26,8 +26,7 @@
 
 
 ## 🚀 Languages and Tools:
-<div align="center">
- 
+<div align="center"> 
  <div align="center"><h3 align="center">Frontend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
@@ -67,7 +66,6 @@
 
 ---
 ###  <p>  📊 My Github Stats  </p>
-
   
   <table><tr><td valign="top" width="50%">
   
@@ -76,10 +74,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeepgond&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </td><td valign="top" width="50%">
-
-
-
-
 
 
 
