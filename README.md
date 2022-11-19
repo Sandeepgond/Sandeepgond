@@ -20,10 +20,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sandeep-gond-160b9422b/)
 - ⚡ Fun fact: 
 
-
-
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-
 
 ## 🚀 Languages and Tools:
 <div align="center"> 
@@ -59,10 +56,7 @@
 
 <p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="Sandeepgond"/></p>
 
-
 <p align="center"> <a href="https://github.com/Sandeepgond/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepgond&row=1&column=6&theme=onedark" alt="Sandeepgond" /></a> </p>
-
-
 
 ---
 ###  <p>  📊 My Github Stats  </p>
@@ -75,11 +69,7 @@
 
 </td><td valign="top" width="50%">
 
-
-
 <!----------------------------------- GitHub Stats Section ------------------------------------>
-
-
 
 [![Sandeep Gond's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeepgond&show_icons=true&theme=radical)](https://github.com/Sandeepgond)
 
