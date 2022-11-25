@@ -2,14 +2,10 @@
 ##  <p  align="center"> Hello Fellow < Developers/ >! </p>
 ##  <p  align="center"> I'm Sandeep Gond 👋</p>
 ## <p  align="center">  🌱 I’m An Enthusiast, Code Lover and Life-Long Learner. </p>
-<p >
-    
+<p > 
     <a href="https://github.com/Sandeepgond">
         <img src="https://komarev.com/ghpvc/?username=Sandeepgond&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeepgond" />
     </a>
-    <!-------------------------<a href="https://github.com/Sandeepgond?tab=followers">
-        <img src="https://img.shields.io/github/followers/Sandeepgond?label=Followers&style=social" alt="followers-count">
-    </a>---------------------->
 </p>
 
 
