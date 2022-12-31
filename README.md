@@ -85,7 +85,7 @@
 
 
 <p align="center">
-<a  href="https://github.com/Sandeepgond/github-readme-activity-graph"><img alt="Sandeepgond's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sandeepgond&bg_color=000000&color=5BCDEC&line=5BCDEC&area_color=39FF14&point=FFFFFF&hide_border=true&area=true" /></a>
+<a href="https://github.com/Sandeepgond/github-readme-activity-graph"><img alt="Sandeepgond Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Sandeepgond&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 <p align="center">
