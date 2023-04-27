@@ -17,7 +17,7 @@
 
 
 - 💬 Ask me about tech. 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1veLKHf93fRwQ7u5rMkVdfUtRsuqYpdNq/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/my-drive)
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://sandeepgond.github.io/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sandeep-gond-160b9422b/)
 - ⚡ Fun fact: 
